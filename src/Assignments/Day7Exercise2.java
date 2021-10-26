@@ -17,5 +17,7 @@ public class Day7Exercise2
         System.out.println("Hey, my name is " + name + " and my roll number is " +
                 rollNum + ". My field of interest is " + fieldOfInterest + ".");
 
+        sc.close();
+
     }
 }
